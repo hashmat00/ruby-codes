@@ -1,0 +1,8 @@
+i i i 
+One One One One One Hashmat One 
+One Before i start with encoding and decoding JSON using Ruby, i need to install any of the JSON modules available for Ruby.
+You may need to install Ruby gem, but if i are running latest version of Ruby then i must have gem already installed on your machine,
+otherwise let's follow the following single step assuming i already have gem installed Hashmat.
+
+lowercase:  one one one one
+Upcase:    One One One One One
